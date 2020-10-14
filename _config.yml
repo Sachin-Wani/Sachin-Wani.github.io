@@ -81,10 +81,10 @@ analytics:
 # Site Author
 author:
   name             : "Sachin Gopal Wani"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "Grad-student MSCS & Consultant at deeplearning.ai"
   location         : "Mumbai"
-  employer         : "https://deeplearning.ai"
+  employer         : "deeplearning.ai"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "sachin27071998@gmail.com"
